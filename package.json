@@ -1,0 +1,29 @@
+{
+  "name": "nodeirc",
+  "version": "0.0.0",
+  "description": "Information about the Node.js IRC community",
+  "main": "build.js",
+  "dependencies": {},
+  "devDependencies": {
+	  "marked": "~0.2.9",
+	  "jade": "~0.35.0",
+	  "node-static": "~0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/williamkapke/nodeirc.git"
+  },
+  "keywords": [
+    "community",
+    "irc",
+    "node"
+  ],
+  "author": "William Kapke <william.kapke@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/williamkapke/nodeirc/issues"
+  }
+}
